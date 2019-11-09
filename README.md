@@ -21,7 +21,7 @@ This repository is aimed at assisting developers with easy help on java and rela
 3. (Nothing at all if you are new) 
 
 ## Directory Structure
-<img src="https://raw.githubusercontent.com/naseemali925/Java-Help/master/Assets/structure.PNG">
+<img src="https://raw.githubusercontent.com/naseemali925/Java-Help/master/Assets/structure.png">
 
 ## Contributing
 
