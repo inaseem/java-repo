@@ -20,7 +20,7 @@ This repository is aimed at assisting developers with easy help on java and rela
 
 - Git
 - Java
-- (Nothing at all if you are new)
+- (Nothing at all if you are new) :smile:
 
 ## Directory Structure
 
