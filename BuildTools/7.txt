@@ -1,0 +1,35 @@
+class StrongestNeighbour{
+    
+    // Function to find maximum of all adjacents
+     static void maximumAdjacent(int sizeOfArray, int arr[]){
+        if(sizeOfArray <= 1){
+            System.out.print(arr[0]);
+        }
+        for(int i = 1; i< sizeOfArray; i++){
+            System.out.print((Math.max(arr[i], arr[i-1]))+" ");
+        }
+    }
+}
+
+==============================================================================
+Rotate array by value d
+
+{
+    static void rotateArr(int arr[], int d, int n)
+    {
+        reverse(arr,0,d-1);
+        reverse(arr,d,n-1);
+        reverse(arr, 0,n-1);
+        
+    }
+    static void reverse(int[] arr, int begin, int end){
+        while(end >= begin){
+            int temp = arr[end];
+            arr[end] = arr[begin];
+            arr[begin] = temp;
+            begin ++;
+            end --;
+        }
+    }
+}
+===================================================================================
