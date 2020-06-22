@@ -24,11 +24,11 @@ This repository is aimed at assisting developers with easy help on java and rela
 
 ## Directory Structure
 
-<img src="https://raw.githubusercontent.com/naseemali925/Java-Help/master/Assets/structure.png">
+![Structure](https://raw.githubusercontent.com/naseemali925/java-repo/master/Assets/structure.png)
 
 ## Contributing
 
-Please fork this repository and contribute back using [pull requests](https://github.com/naseemali925/Java-Help/pulls).
+Please fork this repository and contribute back using [pull requests](https://github.com/naseemali925/java-repo/pulls).
 
 Any contributions, large or small, major improvements, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
 
