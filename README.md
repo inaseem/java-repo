@@ -12,7 +12,7 @@ This repository is aimed at assisting developers with easy help on java and rela
 - JavaFX and Swing related issues.
 - SpringBoot, Java Web related issues.
 - Apache Kafka related issues.
-- Apcahe Lucene/Solr related issues.
+- Apache Lucene/Solr related issues.
 - Build tools (Ant, Maven, Gradle) issues.
 - The Java, Kotlin API related issues.
 - Any Java library issues.
